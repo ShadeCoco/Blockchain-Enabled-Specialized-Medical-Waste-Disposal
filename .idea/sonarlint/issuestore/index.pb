@@ -7,3 +7,7 @@ M
 tests/waste-generator.test.ts,6/8/6880cfe492b0406057ceff3692807633d956c2ea
 C
 tests/test-utils.ts,9/f/9fda4008f387bc8dd541bb9f9e457fe6f5f4fc1e
+S
+#contracts/compliance-reporting.clar,e/5/e58315eadd9b3a251e06ddbab6e27b458da364a2
+R
+"tests/compliance-reporting.test.ts,5/7/57420123e360efcaaffbf2bef496386405fe4a89
